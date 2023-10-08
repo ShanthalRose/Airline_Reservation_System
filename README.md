@@ -28,6 +28,6 @@ Admin can add the flight,view users list,view booking list and view payment list
 Features for Passenger:
 Passenger can create a new account in order to log in.
 Passenger can see available flights.
-Passenger Can make a booking, view current bookings and payment.
+Passenger Can make a booking, view current bookings and can make a payment.
 
 
