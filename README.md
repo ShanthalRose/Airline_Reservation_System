@@ -1,6 +1,4 @@
 # Airline_Reservation_System
-Description:
-This consists of the Airline Reservation System using Spring Boot and Angular. A example of learning Full-stack Development along with implementation.
 
 #💻 Technologies:
 Backend Technologies:
